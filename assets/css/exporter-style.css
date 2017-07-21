@@ -1,0 +1,49 @@
+
+.wc-order-export-container label {
+	padding: 10px;
+}
+.order-export-option-select {
+	height: 30px;
+}
+
+.wc-order-export-container table {
+	background-color: #fff;
+	border-collapse: collapse;
+	padding: 20px;
+	border: 1px solid #cecece;
+	width: 60%;
+}
+
+.wc-order-export-container {
+	padding: 20px;
+}
+
+.wc-order-export-container table td:first-child {
+	width: 30%;
+	background-color: #efefef;
+	color: #555;
+	padding: 5px;
+	border: 1px solid #cecece;
+	height: 25px;
+}
+
+.wc-order-export-container table td:last-child {
+	padding: 5px;
+}
+
+.wc-order-export-container table input[type=text] {
+	width: 100%;
+}
+
+.wc-order-export-container button {
+	float: right;
+}
+
+.order-export-option-select label {
+	display: block;
+    float: left;
+    line-height: 5px;
+    margin-bottom: 1px;
+    margin-right: 1px;
+    width: 130px;
+}
